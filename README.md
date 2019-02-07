@@ -1,4 +1,4 @@
 # alfa_1
 Alfa internal - some test developments
 
-This is our internal working directory. All rights reserved
+This is our internal working directory. 
